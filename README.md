@@ -7,3 +7,5 @@ Write a Bash Function which returns Factorial of an integer passed as an argumen
 ![App Screenshot](https://github.com/H-R-S/OS-Assignments/blob/main/Lab_01/ss_1.jpg)
 ### Code Output Screen Shot:
 ![App Screenshot](https://github.com/H-R-S/OS-Assignments/blob/main/Lab_01/ss_2.jpg)
+___
+## Assignment: 02
