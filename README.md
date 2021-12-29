@@ -18,3 +18,9 @@ ___
 ![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_02.jpg)
 ### Command: mkdir File & rmdir File
 ![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_03.jpg)
+### Command: cp file1.txt file2.txt
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_04.jpg)
+### File1.txt 
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_05.jpg)
+### File2.txt
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_06.jpg)
