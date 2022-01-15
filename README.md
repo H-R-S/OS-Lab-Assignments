@@ -67,3 +67,4 @@ ___
 ![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_25.jpg)
 ### Command: cmp file1.txt file2.txt
 ![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_26.jpg)
+
