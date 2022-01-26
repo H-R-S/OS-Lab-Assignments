@@ -51,4 +51,28 @@ ___
 ### Command: pwd & ps
 ![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_17.jpg)
 ### Command: wc file1.txt
+<<<<<<< HEAD
 ![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_18.jpg)
+=======
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_18.jpg)
+### Command: chmod +x test
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_19.jpg)
+### Command: gzip test & gunzip test.gz
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_20.jpg)
+### Command: history
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_21_a.jpg)
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_21_b.jpg)
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_21_c.jpg)
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_21_d.jpg)
+### Command: logname, uname & tty
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_22.jpg)
+### Command: sort file1.txt
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_23.jpg)
+### Command: head -15 test & tail -15 test
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_24.jpg)
+### Command: df         
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_25.jpg)
+### Command: cmp file1.txt file2.txt
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/Code/ss_26.jpg)
+
+>>>>>>> c5ba0d032263f0cafb6887fad10d087fdfdacd8b
