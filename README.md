@@ -8,9 +8,9 @@ ___
 ## [Assignment: 01](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Assignment-01/Readme/Assignment-01.md)
 Write a Bash Function which returns Factorial of an integer passed as an argument to the script. Returned value must be captured and printed.
 ### Code Screen Shot:
-![App Screenshot](https://github.com/H-R-S/OS-Assignments/blob/main/Lab_01/ScreenShots/Code/ss_1.jpg)
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Assignment-01/ScreenShots/Code/ss_1.jpg)
 ### Code Output Screen Shot:
-![App Screenshot](https://github.com/H-R-S/OS-Assignments/blob/main/Lab_01/ScreenShots/Output/ss_2.jpg)
+![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Assignment-01/ScreenShots/Output/ss_2.jpg)
 ___
 ## [Assignment: 02](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Assignment-02/Readme/Assignment-02.md)
 ![App Screenshot](https://github.com/H-R-S/OS-Lab-Assignments/blob/main/Lab_02/ScreenShots/Question/q1.JPG)
